@@ -88,6 +88,8 @@ namespace PONER_AQUÍ_EL_NAMESPACE
                             {
                                 // For that exit no interceptions.
                                 Environment.Exit(0);
+				// Puedes evitar su cierre colocando otra accion (Opcional)
+                                MessageBox.Show("El programa ya se encuentra ejecutandose")
                             }
                         },
                         Application.Current.Dispatcher
