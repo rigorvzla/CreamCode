@@ -6,7 +6,7 @@ using System.Windows.Threading;
 
 namespace PONER_AQUÍ_EL_NAMESPACE
 {
-	//Colocar en App.xaml.cs en el metodo OnStartup 
+    //Colocar en App.xaml.cs en el metodo OnStartup 
 	
     /// <summary>
     /// WpfSingleInstance
